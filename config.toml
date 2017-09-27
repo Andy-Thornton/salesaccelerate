@@ -34,7 +34,7 @@ googleAnalytics = ""
 		[params.navigation.links]
 			about     = "About"
 			services  = "Services"
-			portfolio = "Portfolio"
+			portfolio = "Case Studies"
 			contact   = "Contact"
 
 
