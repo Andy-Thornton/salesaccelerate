@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://www.salesaccelerate.com/"
 languageCode = "en-us"
 title = "Sales Accelerate"
 theme = "hugo-creative-theme"
